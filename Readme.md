@@ -4,7 +4,7 @@
 
 Kodluyoruz - PatikaDev SQL Course Tasks.
 
-##Description Uses the DB dvdrental from PostgreSQL's tutorial.
+## Description Uses the DB dvdrental from PostgreSQL's tutorial.
 
 ## Task1
 Includes SQL queries.(SELECT, WHERE)
