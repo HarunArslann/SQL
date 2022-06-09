@@ -17,4 +17,4 @@ WHERE title LIKE 'T%' AND rating = 'G';
 --city tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
 SELECT COUNT(*) FROM city
 WHERE city ILIKE '%R'
---Output -> 9
+--Output -> 33
