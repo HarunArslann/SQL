@@ -17,3 +17,9 @@ Includes SQL queries. (LIKE, ILIKE)
 
 ## Task4
 Includes SQL queries. (DISTINCT, COUNT)
+
+## Task5
+Includes SQL queries. (ORDER BY, LIMIT, OFFSET)
+
+## Task6
+Includes SQL queries. (MIN, MAX, AVG)
