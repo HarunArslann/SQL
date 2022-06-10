@@ -23,3 +23,6 @@ Includes SQL queries. (ORDER BY, LIMIT, OFFSET)
 
 ## Task6
 Includes SQL queries. (MIN, MAX, AVG)
+
+## Task7
+Includes SQL queries. (GROUP BY, HAVING)
