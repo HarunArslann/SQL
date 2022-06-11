@@ -32,3 +32,6 @@ Includes SQL queries. (CREATE, INSERT IN, UPDATE, DELETE)
 
 ## Task9
 Includes SQL queries. (INNER JOIN)
+
+## Task10
+Includes SQL queries. (JOIN Structures)
