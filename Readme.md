@@ -30,5 +30,5 @@ Includes SQL queries. (GROUP BY, HAVING)
 ## Task8
 Includes SQL queries. (CREATE, INSERT IN, UPDATE, DELETE)
 
-## Task8
+## Task9
 Includes SQL queries. (INNER JOIN)
