@@ -35,3 +35,6 @@ Includes SQL queries. (INNER JOIN)
 
 ## Task10
 Includes SQL queries. (JOIN Structures)
+
+## Task11
+Includes SQL queries. (UNION, INTERSECT, EXCEPT)
