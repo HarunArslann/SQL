@@ -39,3 +39,7 @@ Includes SQL queries. (JOIN Structures)
 
 ## Task11
 Includes SQL queries. (UNION, INTERSECT, EXCEPT)
+
+## Task12
+Includes SQL queries. (SUBQUERRY, ANY, ALL)
+
