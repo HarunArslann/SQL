@@ -27,5 +27,5 @@ Includes SQL queries. (MIN, MAX, AVG)
 ## Task7
 Includes SQL queries. (GROUP BY, HAVING)
 
-## Task7
+## Task8
 Includes SQL queries. (CREATE, INSERT IN, UPDATE, DELETE)
