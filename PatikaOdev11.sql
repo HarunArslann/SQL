@@ -42,6 +42,7 @@ SELECT first_name FROM customer
 ORDER BY first_name ASC
 );
 
+
 (
 SELECT first_name FROM actor
 ORDER BY first_name ASC
@@ -51,6 +52,7 @@ INTERSECT ALL
 SELECT first_name FROM customer
 ORDER BY first_name ASC
 );
+
 
 (
 SELECT first_name FROM actor
